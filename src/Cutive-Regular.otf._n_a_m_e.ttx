@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Vernon Adams 2012
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Cutive Book
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      0.000;newt;Cutive
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Cutive Book
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 0.000;PS (version unavailable);hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Cutive
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Vernon Adams
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      newtypography.co.uk
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      OFL
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0">
+      Cutive
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="0" langID="0x0">
+      Book
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="0" langID="0x0">
+      Cutive
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Vernon Adams 2012
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Cutive Book
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      0.000;newt;Cutive
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Cutive
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 0.000;PS (version unavailable);hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Cutive
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Vernon Adams
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      newtypography.co.uk
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      OFL
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Cutive
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Book
+    </namerecord>
+  </name>
+
+</ttFont>
